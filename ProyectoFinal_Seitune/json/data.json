@@ -1,0 +1,14 @@
+[
+    {"nombre": "Efectivo", 
+     "detalle": "15% de descuento"},
+
+    {"nombre": "Transferencia", 
+     "detalle": "10% de descuento"},
+
+    {"nombre": "Tarjeta Visa", 
+     "detalle": "Hasta 6 cuotas sin interés (no aplica sobre la seña)"},
+
+    {"nombre": "Tarjeta Mastercard", 
+     "detalle": "Hasta 3 cuotas sin interés (no aplica sobre la seña)"}
+    
+  ]
